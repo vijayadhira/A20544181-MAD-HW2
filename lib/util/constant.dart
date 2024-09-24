@@ -20,7 +20,7 @@ class ConstantData {
   position: 'Product Manager',
   company: 'Tech Innovations Inc.',
   phone: '(555) 123-4567',
-  email: 'vijay.adhira@tech.com',
+  email: 'vijay.adhira9@tech.com',
   address1: '1234 Innovation Way',
   address2: 'Suite 100, Silicon Valley, CA 94043',
   profile: 'assets/images/pro.png'
