@@ -13,7 +13,7 @@ class ConstantData {
 
   static List<Education> educationList = [
     Education('River Hr.sec School', 'assets/images/e1.png', 'GPA: 3.8'),
-    Education('SKR University', 'assets/images/e2.jpeg', 'GPA: 3.6'),
+    Education('SKR University', 'assets/images/e2.jpeg', 'GPA: 3.9'),
   ];
   static  UserInfo userInfo = UserInfo(
   name: 'Vijay Adhira',
